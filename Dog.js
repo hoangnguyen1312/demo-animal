@@ -5,6 +5,7 @@ function Dog(name)
 Dog.prototype.bark = function()
 {
     console.log("Go Go Go and Go Away");
+    console.log("hihihi");
 }
 Dog. prototype.sayHi = function()
 {
